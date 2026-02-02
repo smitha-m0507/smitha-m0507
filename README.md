@@ -30,7 +30,7 @@ Git, VS Code, Jupyter, AWS (Basics)
 ---
 
 ## Projects
-### BioBuddy – AI Chatbot for Biotech Labs
+### BioBuddy – AI Chatbot Integrated Website for Biotech Labs
 - LLM-powered chatbot using LangChain + Llama 2
 - Accurate retrieval of chemical details & lab information
 - Reduced manual queries through AI automation
