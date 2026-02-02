@@ -1,4 +1,4 @@
-# Hi, I'm Smitha M  
+# Hi, I'm Smitha Mohandass
 
 M.Sc Artificial Intelligence & Machine Learning student  
 Interested in LLMs, RAG systems, and real-world AI applications  
