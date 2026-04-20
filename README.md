@@ -40,6 +40,12 @@ Git, VS Code, Jupyter, AWS (Basics)
 - Presented at Intel & NCERT – AI for Youth
 - Focused on inclusive AI & accessibility
 
+### MootCourt AI: Virtual Moot Court Assistant
+- All-in-one AI-powered platform designed to modernise how law students prepare for Moot Court Competitions
+- Uses advanced AI to act as a judge, engaging students in real-time spoken debate with a live analysis and score
+- Includes AI Support Mentor and a Penal Code Explorer for BNS
+
+
 ---
 
 ## Research & Presentations
