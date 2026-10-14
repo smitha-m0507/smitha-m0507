@@ -21,31 +21,31 @@ CGPA: 3.6/4.0 (M.Sc.)
 
 ## Featured Projects
 
-### 🎙️ AuraSync: Agentic Audio Intelligence
+### AuraSync: Agentic Audio Intelligence
 `Python` `LangGraph` `Whisper` `MongoDB`
 - Converts meeting audio into timestamped transcripts and extracts decisions, actions, metrics, risks and key concepts
 - 4-agent pipeline (understanding → synthesis → flowchart generation → validation) with structured outputs and LLM-based evaluation
 - BM25 transcript retrieval with timestamp-grounded responses, plus RAKE, stemming and similarity-based duplicate detection
 
-### 📊 Competitor Intelligence System
+### Competitor Intelligence System
 `Python` `FastAPI` `MongoDB` `ChromaDB`
 - Data pipeline aggregating websites, news, LinkedIn, YouTube and Excel sources for 14 competitors
 - 8-parameter scoring framework: sentiment, keyword classification, theme detection, confidence scoring, benchmarking
 - Semantic retrieval with embeddings, chunking and vector search to generate contextual insights
 
-### ⚖️ MootCourt AI: Virtual Moot Court Assistant
+### MootCourt AI: Virtual Moot Court Assistant
 `Python` `LangGraph` `Gemini` `Groq` `PostgreSQL`
 - LLM judge and mentor conversations grounded in uploaded case documents, with live spoken debate, analysis and scoring
 - Multi-stage evaluation: fact-checking, legal analysis, etiquette, speech evaluation, automated scorecards
 - Structured response generation, retry handling and model fallbacks for consistent AI interactions
 - Includes an AI Support Mentor and a Penal Code Explorer for BNS
 
-### 🧪 BioBuddy: AI Chatbot for Biotech Labs
+### BioBuddy: AI Chatbot for Biotech Labs
 `Python` `Django` `PostgreSQL` `LangChain` `Llama 2` `Ollama`
 - Lab information system for equipment, experiment protocols and chemical inventory, with an LLM chatbot for accurate retrieval of chemical and lab details
 - Intent handling, dialogue state management and structured data collection, reducing manual queries
 
-### 🤟 Sign Language Detection System
+### Sign Language Detection System
 `Python` `Computer Vision`
 - Model to recognise sign language gestures; presented at Intel & NCERT – AI for Youth
 - Focused on inclusive AI and accessibility
@@ -75,13 +75,13 @@ CGPA: 3.6/4.0 (M.Sc.)
 ---
 
 ## Research & Leadership
-- 📄 "Reminder Bot using AI", International Conference (2024)
-- 📄 "Rendezvous Events at Your University using AI", SACAIM (2024)
-- 🏛️ Vice Chairperson, IEEE Computational Intelligence Society, CHRIST University (220+ participants reached)
-- 🎪 Core Committee Member, Gateways (National Level Intercollegiate IT Fest)
+- "Reminder Bot using AI", International Conference (2024)
+- "Rendezvous Events at Your University using AI", SACAIM (2024)
+- Vice Chairperson, IEEE Computational Intelligence Society, CHRIST University (220+ participants reached)
+- Core Committee Member, Gateways (National Level Intercollegiate IT Fest)
 
 ---
 
 ## Connect With Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/smithamohandass)
-- ✉️ smitha.m@msam.christuniversity.in
+- [LinkedIn](https://www.linkedin.com/in/smithamohandass)
+- smitha.m@msam.christuniversity.in
