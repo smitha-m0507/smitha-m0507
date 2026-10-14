@@ -5,6 +5,7 @@
 I build LLM-powered applications, retrieval pipelines and multi-agent workflows, and I care about making them measurable: quality, latency and reliability, not just demos. Interested in applied AI that helps real people, including accessibility and assistive tech.
 
 Location: Bengaluru, India
+
 CGPA: 3.6/4.0 (M.Sc.)
 
 ---
