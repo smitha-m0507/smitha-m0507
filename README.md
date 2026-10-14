@@ -84,4 +84,4 @@ CGPA: 3.6/4.0 (M.Sc.)
 
 ## Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/smithamohandass)
-- smitha.m@msam.christuniversity.in
+- smithamohan0607@gmail.com
