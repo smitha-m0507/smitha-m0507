@@ -1,4 +1,4 @@
-# Hi, I'm Smitha 👋
+# Hi, I'm Smitha
 
 **AI Engineer | LLMs · RAG · Agentic Workflows | M.Sc. AI & ML @ CHRIST (Deemed to be University), Bengaluru (2025–27)**
 
